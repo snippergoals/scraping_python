@@ -1,0 +1,6 @@
+*.pyc
+crawler/env/
+crawler/crawler_cache.sqlite
+.vscode/settings.json
+.vscode/
+crawler_cache.sqlite
