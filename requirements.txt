@@ -24,7 +24,7 @@ pyOpenSSL==18.0.0
 python-dateutil==2.7.5
 pytz==2018.9
 queuelib==1.5.0
-requests==2.16.5
+requests==2.20.0
 requests-cache==0.4.13
 scrapely==0.13.4
 Scrapy==1.3.2
